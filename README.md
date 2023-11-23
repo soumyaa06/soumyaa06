@@ -8,9 +8,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaa06" alt="soumyaa06" /></a> </p>
 
-- 🔭 I’m currently studying in **GIETU**
-
-- 💬 Ask me about **Gamer🎮**
-
-- 📫 How to reach me **cocworld1432@gmail.com**
-
